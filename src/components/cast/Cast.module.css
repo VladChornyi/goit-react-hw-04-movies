@@ -1,0 +1,38 @@
+.cast_img {
+  box-sizing: border-box;
+  width: 140px;
+  height: 210px;
+
+  margin: 0;
+  padding: 0;
+}
+.card {
+  box-sizing: border-box;
+  text-align: center;
+  margin-right: 15px;
+  padding: 0;
+  border: 1px solid bisque;
+  margin-bottom: 15px;
+}
+.list {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.wrapper {
+  min-height: 210px;
+  min-width: 140px;
+  box-sizing: border-box;
+  background-color: bisque;
+}
+
+.text {
+  font-size: 17px;
+  font-weight: bold;
+
+  color: coral;
+}

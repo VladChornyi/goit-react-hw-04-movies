@@ -1,0 +1,19 @@
+.nav {
+  border-bottom: 1px solid coral;
+}
+
+.nav_link {
+  text-decoration: none;
+  color: bisque;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.nav_link:hover {
+  color: coral;
+}
+.nav_link__active {
+  color: coral;
+
+  border-left: 4px solid coral;
+  border-top: 4px solid coral;
+}

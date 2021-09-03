@@ -1,0 +1,11 @@
+.text {
+  font-size: 17px;
+  font-weight: bold;
+  color: bisque;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: bold;
+  color: coral;
+}
