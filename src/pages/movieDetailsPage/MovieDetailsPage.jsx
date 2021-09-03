@@ -81,7 +81,13 @@ const MovieDetailsPage = () => {
 
           <Suspense
             fallback={
-              <Loader type="BallTriangle" color="#00BFFF" height={80} width={80} timeout={3000} />
+              <Loader
+                type="BallTriangle"
+                color="rgb(255, 127, 80)"
+                height={80}
+                width={80}
+                timeout={3000}
+              />
             }
           >
             <Route path={`${url}/cast`}>

@@ -12,7 +12,7 @@
   color: coral;
 }
 .nav_link__active {
-  color: coral;
+  color: rgb(255, 127, 80);
 
   border-left: 4px solid coral;
   border-top: 4px solid coral;

@@ -12,6 +12,7 @@
 }
 .img {
   width: 300px;
+  border-radius: 20px;
 }
 .wrapper {
   display: flex;
